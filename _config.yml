@@ -1,13 +1,13 @@
-title: AI Conference Deadlines
-description: Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines
-author: Abhishek Das
+title: Computer Architecture and Security Conference Deadlines
+description: Countdowns to top Computer Arch/Sec conference deadlines
+author: Hosein Yavarzadeh
 
-domain: "aideadlin.es"
+domain: "deadlines.cpusec.org"
 baseurl: ""
 
 twitter_hashtag: machinelearning
-github_username: paperswithcode
-github_repo: ai-deadlines
+github_username: hoseinyavarzadeh
+github_repo: archsec-deadlines
 
 markdown: kramdown
 ga_id:
