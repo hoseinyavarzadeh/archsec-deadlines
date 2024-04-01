@@ -1,6 +1,6 @@
 ---
 
-- title: MICRO'24
+- title: MICRO
   year: 2024
   id: micro24
   link: https://microarch.org/micro57/
@@ -13,7 +13,7 @@
   place: Austin, Texas
   sub: CA
   
-- title: ISCA'24
+- title: ISCA
   year: 2024
   id: isca24
   link: https://iscaconf.org/isca2024/
@@ -26,7 +26,7 @@
   place: Buenos Aires, Argentina
   sub: CA
 
-- title: HPCA'24
+- title: HPCA
   year: 2024
   id: hpca24
   link: https://hpca-conf.org/2024/
@@ -39,7 +39,7 @@
   place: Edinburgh, Scotland
   sub: CA
   
-- title: ASPLOS'25
+- title: ASPLOS
   year: 2025
   id: asplos25-spring
   link: https://www.asplos-conference.org/asplos-2025-call-for-papers/
@@ -49,7 +49,7 @@
   place: Rotterdam
   sub: CA
   
-- title: ASPLOS'25
+- title: ASPLOS
   year: 2025
   id: asplos25-summer
   link: https://www.asplos-conference.org/asplos-2025-call-for-papers/
@@ -59,7 +59,7 @@
   place: Rotterdam
   sub: CA
   
-- title: ASPLOS'24
+- title: ASPLOS
   year: 2025
   id: asplos25-fall
   link: https://www.asplos-conference.org/asplos-2025-call-for-papers/
@@ -69,7 +69,7 @@
   place: Rotterdam
   sub: CA
   
-- title: IEEE S&P'25
+- title: IEEE S&P
   year: 2025
   id: sp25-first
   link: https://www.ieee-security.org/TC/SP2025/
@@ -79,7 +79,7 @@
   place: San Francisco, CA
   sub: SE
   
-- title: IEEE S&P'25
+- title: IEEE S&P
   year: 2025
   id: sp25-second
   link: https://www.ieee-security.org/TC/SP2025/
@@ -89,7 +89,7 @@
   place: San Francisco, CA
   sub: SE
 
-- title: CCS'24
+- title: CCS
   year: 2024
   id: ccs24-first
   link: https://www.sigsac.org/ccs/CCS2024/call-for/call-for-papers.html
@@ -101,7 +101,7 @@
   place: Salt Lake City
   sub: SE
 
-- title: CCS'24
+- title: CCS
   year: 2024
   id: ccs24-second
   link: https://www.sigsac.org/ccs/CCS2024/call-for/call-for-papers.html
@@ -113,7 +113,7 @@
   place: Salt Lake City
   sub: SE
   
-- title: USENIX SECURITY'24
+- title: USENIX SECURITY
   year: 2024
   id: usenix24-summer
   link: https://www.usenix.org/conference/usenixsecurity24
@@ -125,7 +125,7 @@
   place: PHILADELPHIA, PA
   sub: SE
   
-- title: USENIX SECURITY'24
+- title: USENIX SECURITY
   year: 2024
   id: usenix24-fall
   link: https://www.usenix.org/conference/usenixsecurity24
@@ -137,7 +137,7 @@
   place: PHILADELPHIA, PA
   sub: SE
   
-- title: USENIX SECURITY'24
+- title: USENIX SECURITY
   year: 2024
   id: usenix24-winter
   link: https://www.usenix.org/conference/usenixsecurity24
@@ -149,7 +149,7 @@
   place: PHILADELPHIA, PA
   sub: SE
 
-- title: NDSS'24
+- title: NDSS
   year: 2025
   id: ndss25-summer
   link: https://www.ndss-symposium.org/ndss2025/
@@ -161,7 +161,7 @@
   place: San Diego, CA
   sub: SE
 
-- title: NDSS'24
+- title: NDSS
   year: 2025
   id: ndss25-fall
   link: https://www.ndss-symposium.org/ndss2025/
