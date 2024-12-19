@@ -1,0 +1,32 @@
+- id: ndss26summer
+  year: 2026
+  title: NDSS
+  full_title: Network and Distributed System Security Symposium
+  link: https://sslab.skku.edu/deadlines.html
+  deadline: '2025-04-17 23:59:59'
+  timezone: Etc/GMT+12
+  note: Summer Review Cycle. Paper submission deadline.
+  place: San Diego, California
+  date: TBA
+  start: TBA
+  end: TBA
+  sub:
+  - SEC
+  - DS
+  inactive: false
+- id: ndss26fall
+  year: 2026
+  title: NDSS
+  full_title: Network and Distributed System Security Symposium
+  link: https://sslab.skku.edu/deadlines.html
+  deadline: '2025-07-10 23:59:59'
+  timezone: Etc/GMT+12
+  note: Fall Review Cycle. Paper submission deadline.
+  place: San Diego, California
+  date: TBA
+  start: TBA
+  end: TBA
+  sub:
+  - SEC
+  - DS
+  inactive: false

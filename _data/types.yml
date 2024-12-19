@@ -6,3 +6,7 @@
 - name: Computer Security
   sub: SE
   color: "#0aefff"
+  
+- name: Cryptography
+  sub: CR
+  color: "#deff0a"

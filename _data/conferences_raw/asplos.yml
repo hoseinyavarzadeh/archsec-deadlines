@@ -1,0 +1,47 @@
+- id: asplos25a
+  year: 2025
+  title: ACM ASPLOS
+  full_title: ACM ASPLOS
+  link: https://www.asplos-conference.org/asplos2025/cfp/
+  deadline: '2024-02-23 23:59:59'
+  timezone: Etc/GMT+12
+  note: Spring cycle. Abstract registration deadline. Full paper submission deadline
+    2024-03-01 23:59:59 AoE.
+  place: Rotterdam
+  date: Mar - Apr, 2025
+  start: '2025-03-30'
+  end: '2025-04-03'
+  sub:
+  - CA
+  inactive: false
+- id: asplos25b
+  year: 2025
+  title: ACM ASPLOS
+  full_title: ACM ASPLOS
+  link: https://www.asplos-conference.org/asplos2025/cfp/
+  deadline: '2024-06-17 23:59:59'
+  timezone: Etc/GMT+12
+  note: Summer cycle. Abstract registration deadline. Full paper submission deadline
+    2024-06-24 23:59:59 AoE.
+  place: Rotterdam
+  date: Mar - Apr, 2025
+  start: '2025-03-30'
+  end: '2025-04-03'
+  sub:
+  - CA
+  inactive: false
+- id: asplos25c
+  year: 2025
+  title: ACM ASPLOS
+  full_title: ACM ASPLOS
+  link: https://www.asplos-conference.org/asplos2025/cfp/
+  deadline: '2024-10-18 23:59:59'
+  timezone: Etc/GMT+12
+  note: Fall cycle. Paper submission deadline.
+  place: Rotterdam
+  date: Mar - Apr, 2025
+  start: '2025-03-30'
+  end: '2025-04-03'
+  sub:
+  - CA
+  inactive: false

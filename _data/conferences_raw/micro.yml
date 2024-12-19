@@ -1,0 +1,15 @@
+- id: micro24
+  year: 2024
+  title: MICRO
+  full_title: Micro Conference
+  link: https://microarch.org/micro57/
+  deadline: '2024-04-18 23:59:00'
+  timezone: Etc/GMT-7
+  note: Submission deadline.
+  place: Austin, Texas
+  date: November 2-6, 2024
+  start: '2024-11-2'
+  end: '2024-11-6'
+  sub:
+  - CA
+  inactive: false

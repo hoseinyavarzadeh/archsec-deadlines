@@ -1,0 +1,15 @@
+- id: isca25
+  year: 2025
+  title: ISCA
+  full_title: International Symposium on Computer Architecture
+  link: https://www.iscaconf.org/isca2025/submit/papers.php
+  deadline: '2024-11-15 23:59:00'
+  timezone: Etc/GMT+12
+  note: Abstracts deadline. Full paper deadline November 22, 2024, 23:59 AoE.
+  place: Tokyo, Japan
+  date: June 21-25, 2025
+  start: '2025-06-21'
+  end: '2025-06-25'
+  sub:
+  - CA
+  inactive: false

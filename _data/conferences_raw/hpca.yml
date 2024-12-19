@@ -1,0 +1,15 @@
+- id: hpca25
+  year: 2025
+  title: HPCA
+  full_title: IEEE International Symposium on High-Performance Computer Architecture
+  link: https://hpca-conf.org/2025/
+  deadline: '2024-08-02 23:59:00'
+  timezone: Etc/GMT-7
+  note: Submission deadline.
+  place: Las Vegas, NV, USA
+  date: March 1-5, 2025
+  start: '2024-03-01'
+  end: '2024-03-05'
+  sub:
+  - CA
+  inactive: false
