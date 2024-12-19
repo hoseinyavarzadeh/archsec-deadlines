@@ -78,7 +78,8 @@
   sub:
   - SEC
   - DS
-  inactive: false- id: crypto25
+  inactive: false
+- id: crypto25
   year: 2025
   title: CRYPTO
   full_title: Cryptology Conference
@@ -92,7 +93,8 @@
   end: '2025-08-21'
   sub:
   - CR
-  inactive: false- id: eurosp25
+  inactive: false
+- id: eurosp25
   year: 2025
   title: IEEE EuroS&P
   full_title: IEEE European Symposium on Security and Privacy
@@ -153,7 +155,8 @@
   end: '2024-03-05'
   sub:
   - CA
-  inactive: false- id: isca25
+  inactive: false
+- id: isca25
   year: 2025
   title: ISCA
   full_title: International Symposium on Computer Architecture
@@ -182,7 +185,8 @@
   end: '2024-11-6'
   sub:
   - CA
-  inactive: false- id: ndss26summer
+  inactive: false
+- id: ndss26summer
   year: 2026
   title: NDSS
   full_title: Network and Distributed System Security Symposium
@@ -229,7 +233,8 @@
   end: '2025-07-09'
   sub:
   - DS
-  inactive: false- id: sosp24
+  inactive: false
+- id: sosp24
   year: 2024
   title: ACM SOSP
   full_title: ACM Symposium on Operating Systems Principles
@@ -244,7 +249,8 @@
   end: '2024-11-06'
   sub:
   - DS
-  inactive: false- id: sp2025first
+  inactive: false
+- id: sp2025first
   year: 2025
   title: IEEE S&P
   full_title: IEEE Symposium on Security and Privacy
@@ -273,7 +279,8 @@
   end: TBD
   sub:
   - SEC
-  inactive: false- id: usenixsec25cycle1
+  inactive: false
+- id: usenixsec25cycle1
   year: 2025
   title: USENIX Security
   full_title: USENIX Security Symposium
