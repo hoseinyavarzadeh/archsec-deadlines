@@ -7,6 +7,22 @@
   sub: SE
   color: "#0aefff"
   
+- name: Blockchain
+  sub: BC
+  color: "#ffd300"
+
 - name: Cryptography
   sub: CR
   color: "#deff0a"
+
+- name: Distributed Systems
+  sub: DS
+  color: "#0aefff"
+
+- name: Security
+  sub: SEC
+  color: "#147df5"
+
+- name: Economics/Incentives
+  sub: EC
+  color: "#0aff99"

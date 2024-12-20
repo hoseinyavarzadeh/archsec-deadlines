@@ -14,6 +14,7 @@
   sub:
   - CA
   inactive: false
+
 - id: asplos25b
   year: 2025
   title: ACM ASPLOS
@@ -30,6 +31,7 @@
   sub:
   - CA
   inactive: false
+
 - id: asplos25c
   year: 2025
   title: ACM ASPLOS
@@ -45,6 +47,7 @@
   sub:
   - CA
   inactive: false
+
 - id: ccs25a
   year: 2025
   title: ACM CCS
@@ -62,6 +65,7 @@
   - SEC
   - DS
   inactive: false
+
 - id: ccs25b
   year: 2025
   title: ACM CCS
@@ -79,6 +83,7 @@
   - SEC
   - DS
   inactive: false
+
 - id: crypto25
   year: 2025
   title: CRYPTO
@@ -94,6 +99,7 @@
   sub:
   - CR
   inactive: false
+
 - id: eurosp25
   year: 2025
   title: IEEE EuroS&P
@@ -111,6 +117,7 @@
   - DS
   - SEC
   inactive: false
+
 - id: eurosys26spring
   year: 2026
   title: EuroSys
@@ -126,6 +133,7 @@
   sub:
   - DS
   inactive: false
+
 - id: eurosys26fall
   year: 2026
   title: EuroSys
@@ -141,6 +149,7 @@
   sub:
   - DS
   inactive: false
+
 - id: hpca25
   year: 2025
   title: HPCA
@@ -156,6 +165,7 @@
   sub:
   - CA
   inactive: false
+
 - id: isca25
   year: 2025
   title: ISCA
@@ -171,6 +181,7 @@
   sub:
   - CA
   inactive: false
+
 - id: micro24
   year: 2024
   title: MICRO
@@ -186,6 +197,7 @@
   sub:
   - CA
   inactive: false
+
 - id: ndss26summer
   year: 2026
   title: NDSS
@@ -202,6 +214,7 @@
   - SEC
   - DS
   inactive: false
+
 - id: ndss26fall
   year: 2026
   title: NDSS
@@ -218,6 +231,7 @@
   - SEC
   - DS
   inactive: false
+
 - id: osdi25
   year: 2025
   title: USENIX OSDI
@@ -234,6 +248,7 @@
   sub:
   - DS
   inactive: false
+
 - id: sosp24
   year: 2024
   title: ACM SOSP
@@ -250,6 +265,7 @@
   sub:
   - DS
   inactive: false
+
 - id: sp2025first
   year: 2025
   title: IEEE S&P
@@ -265,6 +281,7 @@
   sub:
   - SEC
   inactive: false
+
 - id: sp2025second
   year: 2025
   title: IEEE S&P
@@ -280,6 +297,7 @@
   sub:
   - SEC
   inactive: false
+
 - id: usenixsec25cycle1
   year: 2025
   title: USENIX Security
@@ -295,6 +313,7 @@
   sub:
   - SEC
   inactive: false
+
 - id: usenixsec25cycle2
   year: 2025
   title: USENIX Security
