@@ -6,10 +6,6 @@
 - name: Computer Security
   sub: SE
   color: "#0aefff"
-  
-- name: Blockchain
-  sub: BC
-  color: "#ffd300"
 
 - name: Cryptography
   sub: CR
@@ -22,7 +18,3 @@
 - name: Security
   sub: SEC
   color: "#147df5"
-
-- name: Economics/Incentives
-  sub: EC
-  color: "#0aff99"
